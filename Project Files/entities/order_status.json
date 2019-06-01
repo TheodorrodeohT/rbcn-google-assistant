@@ -1,0 +1,9 @@
+{
+  "id": "a800a557-cad1-45ff-b881-0c43e377cf54",
+  "name": "order_status",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

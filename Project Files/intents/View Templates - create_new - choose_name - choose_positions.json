@@ -1,0 +1,58 @@
+{
+  "id": "401b96e4-5463-468a-889b-031f73e57605",
+  "parentId": "65b328d9-883c-446f-a23a-7bae99fdbfbc",
+  "rootParentId": "c48e4e48-f41b-43de-af7c-8bb9f8185c2c",
+  "name": "View Templates - create_new - choose_name - choose_positions",
+  "auto": true,
+  "contexts": [
+    "ViewTemplates-create_new-choose_name-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ViewTemplates.ViewTemplates-custom.ViewTemplates-create_new-choose_name.ViewTemplates-create_new-choose_name-choose_positions",
+      "affectedContexts": [
+        {
+          "name": "ViewTemplates-create_new-choose_name-choose_positions-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "84377263-30dc-4a88-9a21-968599571abe",
+          "required": true,
+          "dataType": "@menu",
+          "name": "positions",
+          "value": "$positions",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Извините, не расслышал. Повторите пожалуйста."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143363,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "template_choose_positions"
+    }
+  ]
+}

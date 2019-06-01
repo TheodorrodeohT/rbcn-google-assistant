@@ -1,0 +1,9 @@
+{
+  "id": "e6759cd3-6962-438f-89f7-a5bf1fa2c46d",
+  "name": "application_features",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

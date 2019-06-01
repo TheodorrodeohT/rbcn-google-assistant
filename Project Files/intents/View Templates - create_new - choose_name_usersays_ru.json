@@ -1,0 +1,67 @@
+[
+  {
+    "id": "150cc206-aa21-4e5a-9170-f5bdd35c7373",
+    "data": [
+      {
+        "text": "Завтрак",
+        "alias": "title",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2003d9d1-c7c2-4ecd-a088-1e76a32c51db",
+    "data": [
+      {
+        "text": "Работа",
+        "alias": "title",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57ae571a-2065-4ad8-9512-cef6a65f5d58",
+    "data": [
+      {
+        "text": "Ужин",
+        "alias": "title",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec9b7d58-78eb-4c66-a360-51f987595f6f",
+    "data": [
+      {
+        "text": "Обед",
+        "alias": "title",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5ada958-8539-4f59-9756-2ef58e02e1a3",
+    "data": [
+      {
+        "text": "Первый шаблон",
+        "alias": "title",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

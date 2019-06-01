@@ -1,0 +1,33 @@
+{
+  "id": "f9742b93-184c-4969-9a63-9b5bf218e271",
+  "parentId": "c48e4e48-f41b-43de-af7c-8bb9f8185c2c",
+  "rootParentId": "c48e4e48-f41b-43de-af7c-8bb9f8185c2c",
+  "name": "View Templates - create_yes",
+  "auto": true,
+  "contexts": [
+    "ViewTemplates-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ViewTemplates.ViewTemplates-create_yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143353,
+  "fallbackIntent": false,
+  "events": []
+}

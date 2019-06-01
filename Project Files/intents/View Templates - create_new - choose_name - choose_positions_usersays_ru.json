@@ -1,0 +1,104 @@
+[
+  {
+    "id": "555abdb8-3adf-4865-a7b7-084d6a3e4027",
+    "data": [
+      {
+        "text": "сэндвич с курицей",
+        "alias": "positions",
+        "meta": "@menu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb0ee33c-b349-4101-9b2d-97bd8a40d894",
+    "data": [
+      {
+        "text": "пицца",
+        "alias": "positions",
+        "meta": "@menu",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "гамбургер",
+        "alias": "positions",
+        "meta": "@menu",
+        "userDefined": true
+      },
+      {
+        "text": " и ",
+        "userDefined": false
+      },
+      {
+        "text": "суши",
+        "alias": "positions",
+        "meta": "@menu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f65bbcd7-f7db-4e7a-994c-11a353660625",
+    "data": [
+      {
+        "text": "американо большой",
+        "alias": "positions",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "латте на сое",
+        "alias": "positions",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " и ",
+        "userDefined": false
+      },
+      {
+        "text": "пирог лимонный",
+        "alias": "positions",
+        "meta": "@menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0fa6aba3-0414-474c-ac19-c1d1ad38e98b",
+    "data": [
+      {
+        "text": "эспрессо",
+        "alias": "positions",
+        "meta": "@menu",
+        "userDefined": true
+      },
+      {
+        "text": " и ",
+        "userDefined": false
+      },
+      {
+        "text": "латте",
+        "alias": "positions",
+        "meta": "@menu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

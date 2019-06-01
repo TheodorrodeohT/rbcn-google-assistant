@@ -1,0 +1,38 @@
+{
+  "id": "0375cfcd-ed02-4ef5-ab6f-699efa58214f",
+  "name": "Closest Addresses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "request_permission",
+      "affectedContexts": [
+        {
+          "name": "ClosestAddresses-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ClosestAddress"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "14424bfe-dac6-4cbe-935d-c86d25b6d947",
+  "name": "make_order",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

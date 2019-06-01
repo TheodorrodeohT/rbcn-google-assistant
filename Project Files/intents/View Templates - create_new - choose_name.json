@@ -1,0 +1,54 @@
+{
+  "id": "65b328d9-883c-446f-a23a-7bae99fdbfbc",
+  "parentId": "97f99432-a3f0-4501-a781-aa486581332f",
+  "rootParentId": "c48e4e48-f41b-43de-af7c-8bb9f8185c2c",
+  "name": "View Templates - create_new - choose_name",
+  "auto": true,
+  "contexts": [
+    "ViewTemplates-create_new-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ViewTemplates.ViewTemplates-custom.ViewTemplates-create_new-choose_name",
+      "affectedContexts": [
+        {
+          "name": "ViewTemplates-create_new-choose_name-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5ddc6392-67df-407e-b2bc-abe6a3012dbd",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "title",
+          "value": "$title",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Не совсем понял, не могли бы повторить?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143363,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "e364f464-cda5-4462-99c6-c4e036136cab",
+    "data": [
+      {
+        "text": "назад",
+        "alias": "application_features",
+        "meta": "@application_features",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d58e7c3-ad3b-41fc-9264-eba5ce407501",
+    "data": [
+      {
+        "text": "Все ",
+        "userDefined": false
+      },
+      {
+        "text": "функции",
+        "alias": "application_features",
+        "meta": "@application_features",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549536067
+  },
+  {
+    "id": "3c722894-c6e7-4b56-960f-c9aa770970ae",
+    "data": [
+      {
+        "text": "что ",
+        "userDefined": false
+      },
+      {
+        "text": "умеет",
+        "alias": "application_features",
+        "meta": "@application_features",
+        "userDefined": false
+      },
+      {
+        "text": " приложение",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547388187
+  },
+  {
+    "id": "b3a0ab58-a3b7-41ed-8f81-1624263d01e0",
+    "data": [
+      {
+        "text": "что я ",
+        "userDefined": false
+      },
+      {
+        "text": "могу",
+        "alias": "application_features",
+        "meta": "@application_features",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "сделать",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547623003
+  },
+  {
+    "id": "943851fc-c36b-4107-b556-101882a815b3",
+    "data": [
+      {
+        "text": "покажи ",
+        "userDefined": false
+      },
+      {
+        "text": "функционал",
+        "alias": "application_features",
+        "meta": "@application_features",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547388187
+  },
+  {
+    "id": "41877c0d-6013-4f38-82b2-12adc335829d",
+    "data": [
+      {
+        "text": "что ты ",
+        "userDefined": false
+      },
+      {
+        "text": "можешь",
+        "alias": "application_features",
+        "meta": "@application_features",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547388187
+  },
+  {
+    "id": "a2a8f0ac-80a5-48a5-81d0-c8674f5a93e6",
+    "data": [
+      {
+        "text": "что ты ",
+        "userDefined": false
+      },
+      {
+        "text": "умеешь",
+        "alias": "application_features",
+        "meta": "@application_features",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547388187
+  },
+  {
+    "id": "16bf9420-5a8e-4c3f-bb41-e0f509001fab",
+    "data": [
+      {
+        "text": "Покажи, что ты ",
+        "userDefined": false
+      },
+      {
+        "text": "умеешь",
+        "alias": "application_features",
+        "meta": "@application_features",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547388187
+  }
+]

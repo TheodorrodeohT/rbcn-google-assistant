@@ -1,0 +1,24 @@
+[
+  {
+    "id": "9109bd13-445a-4e68-aca7-61e4eca20818",
+    "data": [
+      {
+        "text": "Удалить шаблон",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff791290-5c5e-48c6-9b02-e18fb30cec07",
+    "data": [
+      {
+        "text": "Стереть шаблон",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

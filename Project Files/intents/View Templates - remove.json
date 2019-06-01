@@ -1,0 +1,39 @@
+{
+  "id": "80a11180-c16a-415e-851a-d8feeb70645d",
+  "parentId": "c48e4e48-f41b-43de-af7c-8bb9f8185c2c",
+  "rootParentId": "c48e4e48-f41b-43de-af7c-8bb9f8185c2c",
+  "name": "View Templates - remove",
+  "auto": true,
+  "contexts": [
+    "ViewTemplates-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ViewTemplates.ViewTemplates-remove",
+      "affectedContexts": [
+        {
+          "name": "ViewTemplates-remove-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143363,
+  "fallbackIntent": false,
+  "events": []
+}

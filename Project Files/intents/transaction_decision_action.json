@@ -1,0 +1,52 @@
+{
+  "id": "82a1e732-efbe-4e49-b764-b98032aca82c",
+  "name": "transaction_decision_action",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "transaction_decision_action2-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c8bad3dc-54f9-4e31-a4cb-4f62faeb9f8b",
+          "required": false,
+          "dataType": "@menu",
+          "name": "menu",
+          "value": "$menu",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Не расслышал позицию, повторите, пожалуйста, ещё раз"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "transaction_decision_action_event"
+    }
+  ]
+}

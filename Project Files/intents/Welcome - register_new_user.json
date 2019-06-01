@@ -1,0 +1,42 @@
+{
+  "id": "c71e4c32-e833-46cd-82dc-8810dc1c75ee",
+  "parentId": "c97cfc13-46f1-4196-9767-ed971424b627",
+  "rootParentId": "c97cfc13-46f1-4196-9767-ed971424b627",
+  "name": "Welcome - register_new_user",
+  "auto": true,
+  "contexts": [
+    "Welcome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Welcome.Welcome-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1dc5e59c-5bae-4437-b1f7-4a618f278370",
+          "required": false,
+          "dataType": "@sys.phone-number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143363,
+  "fallbackIntent": false,
+  "events": []
+}

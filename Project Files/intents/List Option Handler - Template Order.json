@@ -1,0 +1,33 @@
+{
+  "id": "261607d6-ff95-4a0d-a833-5aae67fc6073",
+  "parentId": "3475ac39-e6c6-41f4-9567-a6928b423594",
+  "rootParentId": "3475ac39-e6c6-41f4-9567-a6928b423594",
+  "name": "List Option Handler - Template Order",
+  "auto": true,
+  "contexts": [
+    "ListOptionHandler-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ListOptionHandler.ListOptionHandler-TemplateView",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143363,
+  "fallbackIntent": false,
+  "events": []
+}

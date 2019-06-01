@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6db9dc04-ec6d-4a11-b658-bcd8f641139d",
+    "data": [
+      {
+        "text": "Сделать",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a442ceaf-9c6e-429a-bf7a-5b378c898892",
+    "data": [
+      {
+        "text": "Заказать",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

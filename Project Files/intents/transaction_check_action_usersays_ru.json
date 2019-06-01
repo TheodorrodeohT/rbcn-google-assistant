@@ -1,0 +1,56 @@
+[
+  {
+    "id": "0119701b-c872-472e-b6e5-d63b4073c353",
+    "data": [
+      {
+        "text": "Оформить",
+        "alias": "make_order",
+        "meta": "@make_order",
+        "userDefined": false
+      },
+      {
+        "text": " заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548708036
+  },
+  {
+    "id": "18aebf90-fce2-49ab-b3a7-056a481da31e",
+    "data": [
+      {
+        "text": "Заказать",
+        "alias": "make_order",
+        "meta": "@make_order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548708036
+  },
+  {
+    "id": "8e5fb5e6-1ea0-4c1c-b716-da435738c9c0",
+    "data": [
+      {
+        "text": "Хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "сделать",
+        "alias": "make_order",
+        "meta": "@make_order",
+        "userDefined": false
+      },
+      {
+        "text": " заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548708036
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "9d909ed4-f535-4fb2-97dd-7eba03d2f289",
+    "data": [
+      {
+        "text": "покажи ближайшую точку",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04e3387d-c981-4b8c-9d73-086a27b6452b",
+    "data": [
+      {
+        "text": "ресторан поблизости",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75d0b0fc-c7b8-48ca-8cfb-fbb88ba5e61a",
+    "data": [
+      {
+        "text": "кафе поблизости",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "500f6636-d198-446c-990b-43a71cc3b61b",
+    "data": [
+      {
+        "text": "самое близкое кафе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a6a277f-e7a7-4aa7-a78c-be99aa8288a7",
+    "data": [
+      {
+        "text": "Покажи ближайший ресторан",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2abb17e-4266-4690-97b7-4cb191ad5bb8",
+    "data": [
+      {
+        "text": "самый близкий ресторан",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b0c38ad-894a-4398-802c-8a67808ca4e7",
+    "data": [
+      {
+        "text": "ближайшая точка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89fbd8c8-1076-4289-b91f-ec5c9c68ee6b",
+    "data": [
+      {
+        "text": "Покажи ближайшее кафе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

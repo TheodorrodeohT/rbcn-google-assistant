@@ -1,0 +1,33 @@
+{
+  "id": "f3d38424-a035-4ce8-a40e-4903d29ad7bc",
+  "parentId": "401b96e4-5463-468a-889b-031f73e57605",
+  "rootParentId": "c48e4e48-f41b-43de-af7c-8bb9f8185c2c",
+  "name": "View Templates - create_new - choose_name - choose_positions - yes",
+  "auto": true,
+  "contexts": [
+    "ViewTemplates-create_new-choose_name-choose_positions-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ViewTemplates.ViewTemplates-custom.ViewTemplates-create_new-choose_name.ViewTemplates-create_new-choose_name-choose_positions.ViewTemplates-create_new-choose_name-choose_positions-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143353,
+  "fallbackIntent": false,
+  "events": []
+}

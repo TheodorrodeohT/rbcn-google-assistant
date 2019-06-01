@@ -1,0 +1,110 @@
+[
+  {
+    "id": "e99ed5d7-6a64-4390-8f0a-e7fce898812d",
+    "data": [
+      {
+        "text": "нет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433473
+  },
+  {
+    "id": "0e5216a1-b4f1-492d-9232-07cb11102964",
+    "data": [
+      {
+        "text": "я не хочу этого",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433473
+  },
+  {
+    "id": "f29eccf0-a1e8-4fa1-8ce6-1715a743ddb6",
+    "data": [
+      {
+        "text": "спасибо нет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497626651
+  },
+  {
+    "id": "1536a486-fa89-4ae5-a335-02675461b556",
+    "data": [
+      {
+        "text": "не делай этого",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433473
+  },
+  {
+    "id": "2d9f7996-3ca0-423a-8e79-9f63cb2933bd",
+    "data": [
+      {
+        "text": "не согласен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433473
+  },
+  {
+    "id": "27ddbe5a-5c3c-4437-a13c-7962b0d95657",
+    "data": [
+      {
+        "text": "не думаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433473
+  },
+  {
+    "id": "d26ae5fb-f2cb-4085-b251-cb419da31f1e",
+    "data": [
+      {
+        "text": "да нет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433473
+  },
+  {
+    "id": "c297867d-ed31-477f-a271-f10d178aacd3",
+    "data": [
+      {
+        "text": "определенно нет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433473
+  },
+  {
+    "id": "afbb3c81-6302-4569-bb11-295c2494a6bd",
+    "data": [
+      {
+        "text": "не интересует",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433473
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "573d71c6-804e-48ef-aa3f-082cfe089396",
+  "name": "transaction_check_action",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "transaction.check.no.payment",
+      "affectedContexts": [
+        {
+          "name": "transaction_check_action-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "14f9fb69-0583-4ede-af7a-9619b36304f2",
+          "required": false,
+          "dataType": "@make_order",
+          "name": "make_order",
+          "value": "$make_order",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548708724,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "OrderMaking"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "9359b17c-e7dd-4867-86c2-097c3c400564",
+  "parentId": "55cc8eba-bd67-4396-954d-af6b51d668f7",
+  "rootParentId": "573d71c6-804e-48ef-aa3f-082cfe089396",
+  "name": "actions_intent_PICKUP_OR_DELIVERY",
+  "auto": true,
+  "contexts": [
+    "transaction_check_complete-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "transaction_check_action.transaction_check_action-custom.transaction_check_complete-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143363,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "action_intent_pickup_or_delivery"
+    }
+  ]
+}

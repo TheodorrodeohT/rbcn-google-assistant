@@ -1,0 +1,43 @@
+{
+  "id": "1989a59f-f876-428a-9f9c-3ddee008eb49",
+  "name": "Information desk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Informationdesk-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c6e0d180-9158-4671-be9d-74385c5f4c97",
+          "required": false,
+          "dataType": "@application_features",
+          "name": "application_features",
+          "value": "$application_features",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Пожалуйста."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549536067,
+  "fallbackIntent": false,
+  "events": []
+}

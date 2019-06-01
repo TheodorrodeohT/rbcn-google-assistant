@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f833668c-7a0b-4bbc-bf35-4af3993fa188",
+    "data": [
+      {
+        "text": "75634562848",
+        "alias": "number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d482eab6-7fdf-4e1d-8f76-6d06f9796144",
+    "data": [
+      {
+        "text": "79858747865",
+        "alias": "number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9cdd9dc-4ccd-4053-a385-85af2ebdbd85",
+    "data": [
+      {
+        "text": "78957854452",
+        "alias": "number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

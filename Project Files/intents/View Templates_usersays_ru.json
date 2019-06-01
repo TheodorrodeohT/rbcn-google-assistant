@@ -1,0 +1,35 @@
+[
+  {
+    "id": "f8f95837-857f-439c-b021-0cab63e3a31f",
+    "data": [
+      {
+        "text": "Мои шаблоны",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99525b9b-60e0-4c14-ae69-374eb74f1df7",
+    "data": [
+      {
+        "text": "Шаблоны",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fccb99c7-46bd-453c-bde5-6caf78f05a9e",
+    "data": [
+      {
+        "text": "Посмотреть шаблоны",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

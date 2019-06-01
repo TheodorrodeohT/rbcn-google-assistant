@@ -1,0 +1,43 @@
+{
+  "id": "97f99432-a3f0-4501-a781-aa486581332f",
+  "parentId": "c48e4e48-f41b-43de-af7c-8bb9f8185c2c",
+  "rootParentId": "c48e4e48-f41b-43de-af7c-8bb9f8185c2c",
+  "name": "View Templates - create_new",
+  "auto": true,
+  "contexts": [
+    "ViewTemplates-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ViewTemplates.ViewTemplates-custom",
+      "affectedContexts": [
+        {
+          "name": "ViewTemplates-create_new-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143363,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ViewTemplates-create_new"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "f7a205b7-8729-49b0-a004-7ae603a1e396",
+    "data": [
+      {
+        "text": "точно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433474
+  },
+  {
+    "id": "984f2da7-b206-4e65-a116-c7773868ff00",
+    "data": [
+      {
+        "text": "да",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433474
+  },
+  {
+    "id": "9779937f-601e-44b0-b719-d54fc7e1c38c",
+    "data": [
+      {
+        "text": "я согласен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433474
+  },
+  {
+    "id": "6b333070-fb1f-4289-ae3a-2b0edd460632",
+    "data": [
+      {
+        "text": "конечно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433474
+  },
+  {
+    "id": "d4a1ae61-fe94-48b9-bfe1-25bfb0b4319a",
+    "data": [
+      {
+        "text": "меня устраивает",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433474
+  },
+  {
+    "id": "ebc10eea-b541-469b-a65b-af365f6715cf",
+    "data": [
+      {
+        "text": "не возражаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433474
+  },
+  {
+    "id": "11d10b8d-098f-489f-94a6-4de5be182077",
+    "data": [
+      {
+        "text": "подтверждаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433474
+  },
+  {
+    "id": "e0cb8d32-c024-498d-98ce-b6f76611606b",
+    "data": [
+      {
+        "text": "сделай это",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433474
+  },
+  {
+    "id": "00033e11-c9ab-4523-9626-ee46c3856a05",
+    "data": [
+      {
+        "text": "разумеется",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433474
+  },
+  {
+    "id": "d19f0a21-ae85-4566-8db6-b908866485e3",
+    "data": [
+      {
+        "text": "это верно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497433474
+  }
+]

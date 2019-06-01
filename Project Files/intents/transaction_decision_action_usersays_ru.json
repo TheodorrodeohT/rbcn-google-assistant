@@ -1,0 +1,120 @@
+[
+  {
+    "id": "4e1628e0-27cf-46d6-b534-bf355a5bc226",
+    "data": [
+      {
+        "text": "эспрессо",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " и ",
+        "userDefined": false
+      },
+      {
+        "text": "латте",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0b19bc9-d4a5-4cf9-bb64-9c7cb2d17fab",
+    "data": [
+      {
+        "text": "флэт уайт",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58113dec-a69a-4f18-bd7c-2473e1fa30fb",
+    "data": [
+      {
+        "text": "пирог с курицей",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "beca2322-7c79-45c0-8989-114e23df4f18",
+    "data": [
+      {
+        "text": "сэндвич с курицей тандури",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66979407-1ec2-4b81-88b3-c18642c96ef5",
+    "data": [
+      {
+        "text": "яблочный кекс",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " и ",
+        "userDefined": false
+      },
+      {
+        "text": "какао соя",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18da9aa7-7cdf-4241-b602-1321b44c74b1",
+    "data": [
+      {
+        "text": "ванильный раф",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "сэндвич с прошутто",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": true
+      },
+      {
+        "text": " и ",
+        "userDefined": false
+      },
+      {
+        "text": "молочный улун",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "7bb5d3c6-ace3-4164-8a95-c017a1783d02",
+    "data": [
+      {
+        "text": "Новый шаблон",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c388158a-8ddf-4156-a23a-41b210038387",
+    "data": [
+      {
+        "text": "Создать новый шаблон",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

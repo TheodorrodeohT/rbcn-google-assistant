@@ -1,0 +1,37 @@
+{
+  "id": "04b5be4b-f08f-4e60-af3a-63e40078d46b",
+  "parentId": "82a1e732-efbe-4e49-b764-b98032aca82c",
+  "rootParentId": "82a1e732-efbe-4e49-b764-b98032aca82c",
+  "name": "transaction_decision_complete",
+  "auto": true,
+  "contexts": [
+    "transaction_decision_action2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "transaction_decision_action2.transaction_decision_action-transaction_decision_complete",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143363,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_TRANSACTION_DECISION"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "f4b261a7-b5ef-4e59-a466-a60afc05b30f",
+  "name": "actions_intent_DELIVERY_ADDRESS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_DELIVERY_ADDRESS"
+    }
+  ]
+}

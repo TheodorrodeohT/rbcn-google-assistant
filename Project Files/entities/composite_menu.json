@@ -1,0 +1,9 @@
+{
+  "id": "68c119f7-345e-4f80-a1c4-e1735aea26d5",
+  "name": "composite_menu",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

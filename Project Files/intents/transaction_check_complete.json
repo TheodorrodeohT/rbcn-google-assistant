@@ -1,0 +1,43 @@
+{
+  "id": "55cc8eba-bd67-4396-954d-af6b51d668f7",
+  "parentId": "573d71c6-804e-48ef-aa3f-082cfe089396",
+  "rootParentId": "573d71c6-804e-48ef-aa3f-082cfe089396",
+  "name": "transaction_check_complete",
+  "auto": true,
+  "contexts": [
+    "transaction_check_action-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "transaction_check_action.transaction_check_action-custom",
+      "affectedContexts": [
+        {
+          "name": "transaction_check_complete-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189143363,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_TRANSACTION_REQUIREMENTS_CHECK"
+    }
+  ]
+}
